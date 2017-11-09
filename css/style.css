@@ -10,7 +10,7 @@
 	{
 		margin: 0;
 		padding: 0;
-		background: #000000;
+		background: #f2f2f2;
 	}
 
 	body,input,textarea,select
@@ -19,7 +19,7 @@
 		font-size: 11pt;
 		font-weight: 300;
 		line-height: 1.75em;
-		color: #000000;
+		color: #559e56;
 	}
 
 	h1,h2,h3,h4,h5,h6
@@ -288,9 +288,7 @@
 	}
 
 /*********************************************************************************/
-/* Icons                                                                         */
-/* Powered by Font Awesome by Dave Gandy | http://fontawesome.io                 */
-/* Licensed under the SIL OFL 1.1 (font), MIT (CSS)                              */
+/*   
 /*********************************************************************************/
 
 	.fa
