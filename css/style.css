@@ -890,11 +890,11 @@
 		text-align: center;
 	}
 	
-	.homepage #content header h1
+	.homepage #content header h3
 	{
 	}
 
-	#sidebar h1
+	#sidebar h3
 	{
 		display: block;
 		padding-bottom: 0.50em;
