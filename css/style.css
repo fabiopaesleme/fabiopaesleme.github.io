@@ -251,7 +251,7 @@
 			letter-spacing: 1px;
 			text-transform: uppercase;
 			font-size: 8pt;
-			color: #70AA7E;
+			color: #3b8e44;
 		}
 		
 		ul.style .first {
@@ -283,8 +283,8 @@
 
 	.button:hover
 	{
-		background: #70AA7E;
-		color: #70AA7E !important;
+		background: #3b8e44;
+		color: #3b8e44 !important;
 	}
 
 /*********************************************************************************/
