@@ -15,18 +15,17 @@
 
 	body,input,textarea,select
 	{
-		font-family: 'Roboto', Serif;
+		font-family: 'Roboto', sans-serif;
 		font-size: 11pt;
 		font-weight: 300;
 		line-height: 1.75em;
-		color: #559e56;
+		color: #000000;
 	}
 
 	h1,h2,h3,h4,h5,h6
 	{
 		font-weight: 300;
 		color: #147222;
-		text-align: justify;
 	}
 	
 		h2
@@ -38,7 +37,6 @@
 		{
 			color: inherit;
 			text-decoration: none;
-			text-align: justify;
 		}
 		
 	strong, b
@@ -290,7 +288,9 @@
 	}
 
 /*********************************************************************************/
-/*   
+/* Icons                                                                         */
+/* Powered by Font Awesome by Dave Gandy | http://fontawesome.io                 */
+/* Licensed under the SIL OFL 1.1 (font), MIT (CSS)                              */
 /*********************************************************************************/
 
 	.fa
@@ -769,7 +769,7 @@
 		background: url(/images/michal-parzuchowski-FPLBack.jpg) no-repeat bottom center;
 		background-attachment: fixed;
 		background-size: cover;
-		text-align: justify;
+		text-align: center;
 	}
 	
 		#header:before
