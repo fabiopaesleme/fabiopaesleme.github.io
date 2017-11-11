@@ -1041,3 +1041,11 @@
 			margin: 10px;
 			text-align: -webkit-center;
 		}
+
+		.autor {
+			color: black !important;
+		}
+
+		.autor a {
+			color: cadetblue !important;
+		}
