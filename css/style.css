@@ -1011,3 +1011,24 @@
 			font-weight: 300;
 			color: rgba(255,255,255,.6);
 		}	
+
+		#fisioterapeuta
+		{
+			width: 100%;
+		}
+
+		#content
+		{
+			text-align: justify;
+			margin: 0 10%;
+			padding: 0;
+		}
+
+		h2
+		{
+			text-align: left;
+		}
+		
+		#main {
+			padding: 0 !important;
+		}

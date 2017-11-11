@@ -261,3 +261,20 @@
 		padding: 1em 1em;
 		font-size: 1.2em;
 	}		
+
+	#header
+	{
+		height: 220px;
+	}
+
+	#header img
+	{
+		height: 200px;
+		width: 200px;
+		margin: 10px;
+	}
+
+	center > img
+	{
+		width: 100%;
+	}
