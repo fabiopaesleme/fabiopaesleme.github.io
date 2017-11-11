@@ -1032,3 +1032,12 @@
 		#main {
 			padding: 20px !important;
 		}
+
+		header > h2 {
+			text-align: center;
+		}
+
+		.parceiro {
+			margin: 10px;
+			text-align: -webkit-center;
+		}
